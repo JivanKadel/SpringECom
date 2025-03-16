@@ -1,4 +1,4 @@
-package com.jivan.SpringECom;
+package com.jivan.SpringECom.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
